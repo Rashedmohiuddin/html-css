@@ -1,0 +1,62 @@
+h1{
+    color: aqua;
+    background-color: black;
+    width: fit-content;
+    font font-weight: bolder;
+}
+*{
+    background-color: greenyellow;
+}
+#firstpara{
+    background-color: aliceblue;
+    color: red;
+}
+#secondpara{
+    background-color: yellow;
+    color: black;
+}
+.input-box{
+background-color: white;
+color: black;
+line-height: 2;
+}
+#hello p {
+    background-color: red;
+    color: white;
+}
+div p{
+    background-color: blue;
+    color: white;
+}
+.hey p{
+    background-color: bisque;
+    color: black;
+}
+div + p{
+    background-color: black;
+    color: blanchedalmond;
+}
+#firstpara:hower
+{
+    background-color: yellow;
+}
+/*
+button:active {
+    background-color: navy;
+    transform: scale(0.95);
+}*/
+/*
+button:hover {
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+    transform: scale(1.05);
+}*/
+/*
+input[type="checkbox"]:checked {
+    accent-color: green;
+}*/
+
+tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}

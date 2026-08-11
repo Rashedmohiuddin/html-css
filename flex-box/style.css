@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: ;
+    align-content:;
+
+}
+#a{
+    height: 100px;
+    width: 100px;
+   
+}
+#_a{
+
+     height: 100px;
+    width: 100px; flex-shrink: 3;
+    align-item;
+}

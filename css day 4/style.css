@@ -1,0 +1,37 @@
+/*h1 {
+color: red;
+}
+h1 {
+color: blue;  /* This wins! 
+}*/
+/*
+p {
+color: red;
+}
+#text {
+color: blue;  /* This wins! */
+/*
+.highlight {
+color: yellow;
+}
+/* Specificity: 1-0-0 (weight = 100) */
+/*
+#special {
+color: purple;
+}  /* This wins! */
+/*
+.text {       
+color: green;
+}
+#special {
+    color: purple;
+}  
+p {
+    color: red;
+}*/
+.photo-frame {
+width: 100px;           
+padding: 20px;          
+border: 5px solid red;/* Wooden frame */
+margin: 20px;           
+}

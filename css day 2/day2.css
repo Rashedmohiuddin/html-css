@@ -1,0 +1,34 @@
+h1
+{
+    color: red;
+    background-color: green;
+    text-decoration: line-through  white dashed; 
+    width: fit-content;
+    
+    font-size: 48px;
+    margin: 20px
+}
+p
+{
+    text-align: justify;
+    line-height: 1;
+    letter-spacing:1px;
+    word-spacing: 5px;
+    font-size:large;
+    font-family: cursive;
+    text-transform: capitalize;
+}
+
+
+ #firstspan 
+{
+    color:white;
+    background-color: rgb(255, 0, 64);
+}
+#secondspan
+{
+    color: red;
+    text-decoration: line-through blue wavy; 
+    background-color:orange
+    
+}

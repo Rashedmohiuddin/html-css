@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+/* }
+h1{
+    color: orange;
+    font-size: 50px;
+    background-color: white; 
+     margin-top: 10px;
+    
+}
+p{
+    color: white;
+    background-color: black;
+}
+button{
+    background-color: blue;
+    color: white;
+} */
+ /* span{
+    text-align:justify;
+    font-weight: 100;
+    font-size: 30px;
+ } */
+  /* p{
+    text-decoration: red underline;
+  }
+  a{
+    text-decoration: none;
+  }
+ */
+ /* p{
+    font-size:16px;
+    line-height:3;
+    letter-spacing: 0.5px;
+ } */
+  /* p{
+   color: #ffa511;
+   font-family: "league spartan" ,san-serif;
+   text-align: center;
+   text-transform: uppercase
+   font-size: 55px;
+   letter-spacing: 2px;
+   line-height: 1.5;
+   text-decoration:teal underline double ;
+   text-transform:uppercase ;
+  } */
+   /* div P{
+    color:red;
+
+   }
+   div div{
+    color: blue;
+   } */
+    /* h3 +p{
+        color: blue;
+    }
+    button{
+        background-color: white;
+        
+   }
+    button:hover{
+        background-color: grey;
+        color: white;
+        text-decoration: underline;
+
+    }
+    
+    button:active{
+        background-color: grey;
+        color: white;
+        text-decoration: underline;
+        
+        } */
+        /* p:nth-of-type(3){
+            color:red;
+            background-color: blue;
+            
+            };
+            */
+            /* p::first-selection{
+                color:red;
+                background-color: blue;
+                text-transform: uppercase
+                
+                }; */
+                /* #hello{
+                    background-color: red;
+                    height: 500px;
+        width: 500px;
+        font-size: 50px;
+        border: 2px blue ;
+        display: flex;
+        align-items: center;
+justify-content: center;
+        /* text-align: center; */
+/* 
+    }
+     #hey{
+        background-color: aquamarine;
+        height: 100vh;
+        width:100vw;
+        margin-top: 20px;
+        /* padding
+        /* font-size:3rem; } *
+        /*  */
+        /* div{
+            background-color: rgb(0, 3, 303);
+            height: 100px;
+            width: 100px;
+            color: white;          
+            margin:50px;
+            box-shadow:  0 0 5px rgba(0, 0, 0, 0.5);
+
+        } */
+         /* div{
+            margin: 12px;
+            background-color: aqua;
+            height: 100px;
+            width: 100px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: sticky;
+            position:fixed;
+            /* top: 20px;
+            lef
+
+            /* transition: margin-left 0.5s linear ; */
+         /* }
+        
+         div:hover{ */
+            /* margin-left:50px; */
+            /* transform: rotate(45deg); */
+            /* transform: scale(1.5); */
+            /* transform: translatex(50px); */
+            /* transform: rotate(45deg) scale(1.5) translatex(50px); */
+         /* } */ */
+

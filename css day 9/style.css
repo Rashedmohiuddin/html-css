@@ -1,0 +1,16 @@
+#main{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    animation: growwidth 2s ease-in-out infinite alternate;
+}
+@keyframes width {
+    from
+    {
+        width: 100px;
+    }
+    to{
+        width: 500px;
+    }
+    
+}
